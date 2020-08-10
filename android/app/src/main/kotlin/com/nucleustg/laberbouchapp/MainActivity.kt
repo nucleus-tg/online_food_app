@@ -1,4 +1,4 @@
-package com.example.online_food_app
+package com.nucleustg.laberbouchapp
 
 import io.flutter.embedding.android.FlutterActivity
 
